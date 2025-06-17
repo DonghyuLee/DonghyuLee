@@ -1,8 +1,8 @@
 ## 👋 Hi there!
 
 ![PhD Student](https://img.shields.io/badge/Ph.D.-SNU-blue)
-![Inverse Design](https://img.shields.io/badge/Inverse%20Design-Deep%20Learning-green)
 ![Surrogate Modeling](https://img.shields.io/badge/Surrogate-Modeling-yellow)
+![Inverse Design](https://img.shields.io/badge/Inverse%20Design-Deep%20Learning-green)
 ![LLM for Design](https://img.shields.io/badge/LLM-Autonomous%20Design-red)
 
 I'm a **Ph.D. student at Seoul National University**, working on AI-powered design for elastic metamaterials.
